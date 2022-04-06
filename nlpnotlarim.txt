@@ -1,0 +1,18 @@
+Merhaba hocam benim projem IMDB Film yorum analizi
+
+Ben projemde yapay zeka yöntemi olarak Doğal dil işleme yani Natural Language Processing
+
+Kütüphanelerim;
+
+CountVectorizer --> Metinlerimizi "Bag of Words" denilen matrise yani sayılara çevirmek için kullanıyoruz.
+
+RandomForest --> Sınıflandırma işlemleri için kullanacağız. 
+()Karar ağaçlarını kullanarak daha uyumlu sınıflandırmalar yapmamızı sağlıyor.
+
+metrics --> Bunu metrics yapısı için kullanıyoruz.
+
+BeatifulSoup --> HTML ve XML dosyalarını işlemek için kullanılır.
+
+re --> Regular Expression (Düzenli İfadeler) metin içinde istediğimiz ifadeleri ayrıştırmamızı sağlıyor.
+
+nltk --> Natural Language Toolkit 
